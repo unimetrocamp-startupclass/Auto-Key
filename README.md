@@ -56,7 +56,7 @@ Desenvolver uma solução completa que utilize microcontroladores para o control
 | 07/04/2025   | ✅ Organização do `readme.md` com informações gerais e apresentação do time S2 |
 | 28/04/2025   | 💻 Desenvolvimento geral do projeto + preparação de slides                   |
 | 12/05/2025   | 🧪 **Semana de Tecnologia**                                                  |
-| 07/04/2025   | 🖼️ Preparação do banner e últimos detalhes do projeto                        |
+| 19/05/2025   | 🖼️ Preparação do banner e últimos detalhes do projeto                        |
 | 02/06/2025   | 🎓 **FENETEC 2025.1**                                                        |
 
 </details>
